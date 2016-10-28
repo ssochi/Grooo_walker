@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="Grooo_Walker">
+        <attr name="Window_height" format="float" />
+        <attr name="Window_width" format="float" />
+    </declare-styleable>
+</resources>
